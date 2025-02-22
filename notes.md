@@ -7,3 +7,5 @@ Add feature for X [FWrbJY] line 7.2
 Add feature for X [FWrbJY] line 7.3
 Refactor codebase with Z [yxnoQo] line 10.1
 Add test case for W [gthgLX] line 13.3
+Refactor codebase with Z [sMA7B0] line 15.1
+Refactor codebase with Z [sMA7B0] line 15.2
